@@ -13,3 +13,11 @@ LangFile=Keynote.english.lng
 TipFile=Keynote.english.tip
 Translator=
 RTL=0
+
+[Chinese-Simplified]
+Comment=v2.0 2025-02-01
+Name=Chinese-Simplified(简体中文)
+LangFile=Keynote.chinese-simplified.lng
+TipFile=Keynote.chinese-simplified.tip
+Translator=xbeta(善用佳软)
+RTL=0
